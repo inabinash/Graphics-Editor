@@ -8,3 +8,6 @@ Visit `https://tailwindcss.com/docs/installation` to configure the `tailwind.con
 Run `npm run start` to start the Project 
 
 
+## Snapshots
+### Login
+/home/avi/PROJECTS/Graphics Editor -1/SCREENSHOTS/SignUp.png
